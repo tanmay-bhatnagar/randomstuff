@@ -1,0 +1,8 @@
+CUDA-setup
+Ubuntu 16.04
+accompanying video - https://www.youtube.com/watch?v=rILtTjrecQc
+Install drivers using additional settings
+Install CUDA toolkit using DOCS 
+Add path using docs
+install cudnn
+enjoy
