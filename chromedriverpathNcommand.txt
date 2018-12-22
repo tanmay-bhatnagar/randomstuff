@@ -1,0 +1,3 @@
+D:\Downloads\chromedriver.exe
+
+googleimagesdownload -o D:\Downloads -k "tomato" --chromedriver "C:\chromedriver.exe" -l 1000
